@@ -1,0 +1,472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A very short and brief account of the free justification of God's elect, from the condemning power of the law, by that law change of persons, (flowing from an eternal act of grace, by way of covenant transaction between the Father and the Son;) which brought Christ as mediator under the curse and condemnation of that broken law, in the very room and place of elect sinners. : Whereunto are added, some questions concerning this point; : proposed to be answered by those that do so confidently affirm, that the elect of God are equally with others, under the same condemning power of the law, before faith. / By A member of a Church of Christ, in the County of Essex.</title>
+            <author>Member of a Church of Christ.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95872</idno>
+            <idno type="STC">Wing V279dA</idno>
+            <idno type="STC">ESTC R185966</idno>
+            <idno type="EEBO-CITATION">43077733</idno>
+            <idno type="OCLC">ocm 43077733</idno>
+            <idno type="VID">151845</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151845)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2278:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A very short and brief account of the free justification of God's elect, from the condemning power of the law, by that law change of persons, (flowing from an eternal act of grace, by way of covenant transaction between the Father and the Son;) which brought Christ as mediator under the curse and condemnation of that broken law, in the very room and place of elect sinners. : Whereunto are added, some questions concerning this point; : proposed to be answered by those that do so confidently affirm, that the elect of God are equally with others, under the same condemning power of the law, before faith. / By A member of a Church of Christ, in the County of Essex.</title>
+                  <author>Member of a Church of Christ.</author>
+               </titleStmt>
+               <extent>[4], 5-45 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages are stained and tightly bound.</note>
+                  <note>Reproduction of original in: Dr. Williams' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justification --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151845:1" rendition="simple:additions"/>
+            <p>A very ſhort and Brief ACCOUNT OF THE <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ree Juſtification of God's Elect, From The Condemning Power of the Law, by that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aw Change of Perſons, (flowing from an Eternal Act of Grace; by way of Co<g ref="char:EOLhyphen"/>venant Tranſaction between the Father and the Son;) which brought Chriſt as Media<g ref="char:EOLhyphen"/>tor, under the Curſe and Condemnation of the broken Law, in the very room and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of elect Sinners.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ereunto are added, ſome Queſtions con<g ref="char:EOLhyphen"/>cerning this Point; propoſed to be anſwer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by thoſe that do ſo confidently affirm, that the elect of God are equally with others, under the ſame Condemning pow<g ref="char:EOLhyphen"/>er of the Law, before Faith.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Member of a Church of Chriſt, in the County of <hi>Eſſex.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 8.32, 33, 34.</hi>
+               </bibl>
+               <p>He tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pared not his own Son, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut delivered him up for us all, how ſhall he not with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> alſo freely give us all things? Who ſhall lay any thing to the Charge of God's Elect: it is God that Justifieth, Who is he that condemneth? it is Christ that died, yea <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is riſen again, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1699.</p>
+            <pb facs="tcp:151845:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151845:3"/>
+            <pb facs="tcp:151845:3"/>
+            <head>TO THE READER.</head>
+            <p>THat which hath occaſioned the pub<g ref="char:EOLhyphen"/>liſhing this ſhort Treatiſe (about Juſtification) to the World, is this. A <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oor Member of a Church of Chriſt in the Country, having affirmed, that God's <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect were never under the condemning <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower of the Law; (being choſen in Chriſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Elect Head, and Mediator of a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee and abſolute Covenant of Grace to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem.) Thereupon ſome Arguments ari<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, this being by ſome condemned as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot agreeable to Scripture, theſe following <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ines were offered, to clear up the point, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſiring an anſwer again in Writing; that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Truth might appear, by an Ingeni<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Loving anſwer to ſome objections. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich being refuſed, made it ſeem (at leaſt
+<pb facs="tcp:151845:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:151845:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:151845:5"/>to me,) as though the Refuſers of ſo re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſonable a propoſition, were conſcious themſelves, that affirming the contra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was more Grounded upon Authors, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon any clear Scripture Proof. Whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> made them ſo ſhy of coming to the light God's Word, to clear up their ſo oft affirmed aſſertions, that the very Perſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God's choſen ones were under Curſe a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Wrath, and the condemning Power the Law. Before believing equally wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the non-elect, the refuſing to vouchſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> clear Scripture Proof for this opini<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath occaſioned the publiſhing theſe f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> following Lines, humbly deſiring that might pleaſe Almighty God, to vindic<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and defend his own Truth, on which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſoever it be found, and plainly diſcover <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bring to light all miſtakes of this Nat<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Therefore read and try every ſentence, the unerring Word of God, and the L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Spirit, vouchſafe to give out his lig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and ſpecial teachings, in the diligent ſea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Holy Scriptures.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:151845:5"/>
+            <head>To our Brethren in Chriſt.</head>
+            <p>TO our loving Brethren in the Lord, Grace and Truth be with you. As I doubt not but that we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall meet another day, with exceed<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Joy at the right Hand of Chriſt, ſo I deſire we may contend as Bre<g ref="char:EOLhyphen"/>thren, in a Holy and Reverential <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear of God our Father, and for his Truth only: therefore I only deſire you to prove your aſſertion, <hi>That Juſtification, in the ſight of God's ſatis<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Juſtice before Faith, is not accord<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng to Scripture.</hi> And in order thereto, ſhall propoſe ſome Queſtions, to be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſwered diſtinctly, that ſo we may <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome to a right underſtanding of each <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, and ſee wherein we do really <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gree, or diſagree; and not continue <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contend about Words to no pur<g ref="char:EOLhyphen"/>oſe, if we do mean the ſame thing,
+<pb n="6" facs="tcp:151845:6" rendition="simple:additions"/>but if not let it come to Light, with<g ref="char:EOLhyphen"/>without any under-hand dealing. And I pray God Almighty confound what is not of God, let it lye on which ſide it is; and I hope I ſhall trample under foot with abhorrance, whatever I could be convinced of to be contrary to the mind of God; and do ſincerely deſire to uſe all the means I can, to attain the cleareſt diſcoveries thereof Therefore I ſhall firſt explain my mean<g ref="char:EOLhyphen"/>ing, concerning God's eternal Juſtifi<g ref="char:EOLhyphen"/>ing Act in his own Breaſt, Acting in a way of Juſtice and Grace Jointly in God, yet pure Grace with reſpect to elect Sinners; preventing them in a way of Grace, from the dreadful ef<g ref="char:EOLhyphen"/>fects, that otherways would moſt ne<g ref="char:EOLhyphen"/>ceſſarily attend their fall in <hi>Adam</hi> And that he might clear them from the Curſe of the Law in a way of Juſtice Grace puts the Law into a Mediator Hand; and though Grace intended no to prevent the elect from falling i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Adam</hi> into Sin equally with others yet that Grace might ſuper-abound
+<pb n="7" facs="tcp:151845:6"/>where Sin abounded; there was a Lamb provided, who by divine ap<g ref="char:EOLhyphen"/>pointment, ſhould bear the whole Curſe due to Sin, with all the dread<g ref="char:EOLhyphen"/>ful effects thereof. This I ſhall explain in as few, but in as plain words as I can expreſs my ſelf, my meaning is this, there was from all Eternity a fixed im<g ref="char:EOLhyphen"/>mutable Will in God, never to punniſh Sin, nor to inflict the penalty of the Law up his Elect; his Will was not, to proſecute his right againſt them in a way of Juſtice. (1 <hi>Theſſ.</hi> 5.9.) but to deal with them as Righteous, in a Me<g ref="char:EOLhyphen"/>diator, <hi>(a pure act of Grace)</hi> by free Imputation (2 <hi>Cor.</hi> 5.21. <hi>Rom.</hi> 5.21. <hi>Eph.</hi> 1.4.) God from all Eternity, did Immutably Will and bequeath eternal Life to his choſen in Chriſt, through the Blood of the everlaſting Teſtament, (<hi>Mat.</hi> 26.28. <hi>Heb.</hi> 10.10.) It plainly appears in this 10th Chapter to the <hi>Hebrews,</hi> that it was the Will of God, that Chriſt ſhould be offer'd up a Sacri<g ref="char:EOLhyphen"/>fice to Juſtice, by the which Will of God, them that he died for were ſet
+<pb n="8" facs="tcp:151845:7"/>apart to Life, which I take to be meant by ſanctified, becauſe the Apoſtle is treating of Juſtification, and Pardon of Sin, by Chriſt's own offering, as our high Prieſt; beſides it would look ſtrange, to ſay the Will or Decree of God, that Chriſt ſhould die for Sinners, ſhould ſanctifie us Inherently; when it can hardly be granted, that the Decree ſhould make that Law, Change of per<g ref="char:EOLhyphen"/>ſons, that Frees the Elect from Curſe and Condemnation, and ſets Chriſt un<g ref="char:EOLhyphen"/>der it in their room; but I think, Sanctified by God's Will or Decree, is ſet apart to Life, and through Chriſt's own offering, as it reſpects the thing Willed, the Purging away Sin, with reſpect to its Guilt, and Condemning Power in the ſight of Juſtice: Now God's Will, as a Teſtament of Grace to Elect Sinners, was an eternal going forth (<hi>Micah</hi> 5.2.) by way of Cove<g ref="char:EOLhyphen"/>nant Tranſaction, between the Father and the Son, as diſtinct parties (though one in eſſence) and eternal Grace; as it reſpected the fall and breach of the
+<pb n="9" facs="tcp:151845:7"/>Law, ſo likewiſe it acted from Eternity, in a way of Juſtice by a Mediator, to ſtand in the Sinners Law place; ſo that Juſtice, as well as Grace, was eter<g ref="char:EOLhyphen"/>nally pleaſed, that elect Sinners ſhould go unpuniſhed, and hereby ſtand com<g ref="char:EOLhyphen"/>pleat, in the unchangeable favour of God; that when the Law was broken by <hi>Adam,</hi> as a Covenant Head, it ſhould be compleatly anſwered by a ſecond Man, or <hi>Adam,</hi> as Mediator, as the elect Head, and ſurety of a free Teſta<g ref="char:EOLhyphen"/>ment by Grace; this Decree or immi<g ref="char:EOLhyphen"/>nent Act of God's Will, made that Law change of perſons, which ſet Chriſt as Mediator under the Curſe, and Con<g ref="char:EOLhyphen"/>demning power of the Law; (which other ways could hot have touched him) and turns the Curſe of the Law from the Law-breaking Sinner (which otherways would take hold on all Sin<g ref="char:EOLhyphen"/>ners, as ſuch) and ſo ſets him under the ſentence of Life, in the Court of Grace, by abſolute promiſe, (<hi>Titus</hi> 1.2.) which free and abſolute ſentence of Life, takes hold on the Perſons of
+<pb n="10" facs="tcp:151845:8"/>God's choſen, as early as the law ſen<g ref="char:EOLhyphen"/>tence can take hold on the perſons of thoſe that have no Mediator (<hi>Rom.</hi> 9. 11, 13.) This is the immediate effects of Chriſt's Mediatorſhip for the Elect, and the pronounced or declared ſen<g ref="char:EOLhyphen"/>tence of God's eternal Will; thus with Reſpect to this eternal Tranſaction in a Covenant way, we may underſtand theſe following Scriptures,(<hi>Prov.</hi> 8.23. <hi>Micah</hi> 5.2. <hi>Zac.</hi> 6.13 <hi>Eph.</hi> 3.11. 2 <hi>Tim.</hi> 1.9. 1 <hi>Pet.</hi> 1.20.) Now whi<g ref="char:EOLhyphen"/>ther you will pleaſe to call this Immi<g ref="char:EOLhyphen"/>nent and Internal Act of God's Will, Juſtification or not, yet let the thing it ſelf be granted, and ſo far we ſhall agree, I deſire not to differ about Words, if we mean the ſame thing; I ſuppoſe, you take only the pronounced ſentence into Juſtification; that I own, as it declares the fundamen<g ref="char:EOLhyphen"/>tal Act, according to which they ſtand Juſt, (if we differ not about the ſen<g ref="char:EOLhyphen"/>tence it ſelf,) for I reckon, that all ſentences of Court, that are according to Juſtice, are grounded upon ſome preceding Act, which makes the ſen<g ref="char:EOLhyphen"/>tence
+<pb n="11" facs="tcp:151845:8"/>Juſt. Therefore I ſhall take in both, becauſe the Righteous Judge of the whole Earth, will never pronounce any Law-breaking Sinner Juſt; but thoſe which he makes Righteous in a Mediator, according to this Sovereign Act of his Grace; but I take it for grant<g ref="char:EOLhyphen"/>ed, that our difference (I mean amongſt thoſe that are ſound and Orthodox) is not about the matter of our Juſti<g ref="char:EOLhyphen"/>fying Righteous, nor whither it is God only that Juſtifies through Chriſt; nor whether it be by Grace, excluding all manner of Works of the Law wrought in us, or performed by us; even, the Act of believing it ſelf as it is a Work of the Law, (though I could wiſh that were ſomething better cleared, as well as owned in words.) Therefore I ſhall paſs theſe things, and come to the very point, and that is, what Act of God it is, that makes over the Righteouſneſs of Chriſt, as Media<g ref="char:EOLhyphen"/>tor to an elect Perſon; or gives him a Right to that Righteouſneſs in the ſight of God. This I take to be fundamen<g ref="char:EOLhyphen"/>tally, in the Sovereign Will of God;
+<pb n="12" facs="tcp:151845:9"/>in that Covenant Tranſaction, between the Father and the Son, there was a Grant unto our great Covenant-Head, the Lord Jeſus; though he were purely God, and had not then aſſumed our Na<g ref="char:EOLhyphen"/>ture, yet he did perſonally exiſt, and was a diſtinct Perſon from the Father, from Eternity (though of the ſame Nature and Eſſence.) And by Virtue of Eternal Co<g ref="char:EOLhyphen"/>venant Tranſaction, he was under an Obligation, from all Eternity, to take our Nature upon him, as <hi>Abraham's</hi> Seed, with a Special Eye to the Elect, for he paſs'd by the Nature of Angels; and though it is true, that he took Fleſh, Humane Nature; yet he paſs'd by the non-elect, and on the Seed of <hi>Abraham</hi> he took hold, that is, of all <hi>Abraham's</hi> Spiritual Seed, as he ſaith, <hi>I and the Children thou haſt given me.</hi> The Apoſtle in that Second Chapter to the <hi>Hebrews,</hi> Quotes that out of <hi>Iſaiah,</hi> and brings it to prove the Covenant Relation that was between Chriſt and the Elect; and foraſmuch as the Chil<g ref="char:EOLhyphen"/>dren were partakers of Fleſh and
+<pb n="13" facs="tcp:151845:9"/>Blood, he likewiſe himſelf took part of the ſame; by this Covenant Relation we became Bone of his Bone, and Fleſh of his Fleſh; as there is one Body, as well as one Spirit; by virtue of this Covenant Relation, the elect only receive Life and quickenings from Chriſt, as Head of the Covenant of Grace; as the Father gave him to be Head to the Catholick or Univerſal Church, the whole Body of election, (<hi>Eph.</hi> 1.22, 23.) and then it follows, <hi>and you hath he quickened,</hi> (chap. 2. v. 1.) Thus I have ſpoke in a few words, ſomething of that Union, from whence flows Communion, which doth not only precede Faith in order of Na<g ref="char:EOLhyphen"/>ture, but in order of time alſo; and by virtue of which, we have the Spi<g ref="char:EOLhyphen"/>rit that works Faith (in God's time) from Chriſt as our anointed Head, but to return, by virtue of this Covenant Tranſaction, he was likewiſe under an Obligation to bare all the Sins (by way of charge and Imputation) of all the elect, in his own Body on,
+<pb n="14" facs="tcp:151845:10"/>the Tree as their Covenant Head and Mediator, ſo he ſtood Ingaged, by Covenant Contract, from Eternity, to anſwer for them, to all the demands of Law and Juſtice. (<hi>John</hi> 10.18.) <hi>This Command have I received of my Father,</hi> and (<hi>John</hi> 12.50.) <hi>I know that his Command is Life everlaſting.</hi> The ſame Act of God's Grace, that made our Sins to meet on Chriſt, (<hi>to Death as the wages of Sin,)</hi> brought his Mediatorial Righteouſneſſ upon the Elect to Life everlaſting (<hi>Rom.</hi> 5.21. chap. 6 23.) By virtue of this Covenant Tranſaction, it is made over to God's choſen, by a free Teſtament of Grace, in the Blood of the New Teſtament, and comes upon them as a free gift of Righteouſneſs (<hi>Rom.</hi> 5.18.) and we have Right to that Juſtifying Righte<g ref="char:EOLhyphen"/>ouſneſs, as held forth in the free and abſolute promiſe, as elect Perſons, be<g ref="char:EOLhyphen"/>ing choſen in Chriſt, as the elect head of this his free Teſtament; and the Teſtament it ſelf gives Right, and the elect are heirs of promiſe, as ſoon as
+<pb n="15" facs="tcp:151845:10"/>they have a being, (not Natural Heirs by deſcent, but Heirs by Grace, for what is freer than Gift?) God made his Will in Eternity, and bequeathed E<g ref="char:EOLhyphen"/>ternal Life to his adopted Children, that were predeſtinated to Son-ſhip, acccording to the good pleaſure of his Will, (<hi>Eph.</hi> 1.5.) now this Teſtament of Grace in the Blood of Chriſt, made known and Revealed by an abſolute promiſe of Life (<hi>Titus</hi> 1.2. taken from <hi>Gen.</hi> 3.15.) this gives them right, and makes them Heirs of the promiſe of Life; and though the Bleſſings given in this Teſtament be in the Sureties Hand, till the time apointed of the Father, to be giving out ſucceſſively, at the ſeveral times appointed, firſt the Spirit of Faith, and then Sanctification gradually carried on; and at laſt con<g ref="char:EOLhyphen"/>ſummated in Glory; therefore to make one Bleſſing thereof to be either Cauſe or Condition of the Reſt, would be very improper, when all are but parts of the ſame free gift; and that which gave them Right to one, gave them
+<pb n="16" facs="tcp:151845:11" rendition="simple:additions"/>Right to all; that which gave them a Right to Faith, before they did receive it, gave them Right to Juſti<g ref="char:EOLhyphen"/>fying<g ref="char:punc">▪</g> Righteouſneſs before they had Faith; and that was thefree Teſta<g ref="char:EOLhyphen"/>ment it ſelf, in the Blood of Chriſt; then here lieth the Right of elect Perſons, as ſuch, to Juſtifying Righ<g ref="char:EOLhyphen"/>teouſneſs in the Will it ſelf, as being by that abſolutely ſettled upon all the Heirs of promiſe, by two Immutable things, God's Promiſe and Oath; and add to this the Teſtator's Blood, and ſhews all is firm, the elect have an Indefeaſable Right, and are Heirs by Grace, though Children of Wrath by Nature, as coming from fallen <hi>Adam</hi>'s Loins. So conſidered, their State is a State of Wrath, and liable and obnoxious to God's eternal Wrath and Diſpleaſure. That State ſtrictly conſidered, but the Perſons of the elect, in this ſinful fallen Eſtate; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are not objects of God's Wrath, but objects of his great Immenſe God like-Love, even when they are dead in ſins, (<hi>Eph.</hi> 2.4.) Faith makes
+<pb n="17" facs="tcp:151845:11"/>not their Perſons excepted, though it doth their Services; the exceptation of their Perſons in the beloved, is a pure Act of God's Sovereign Will, that will becauſe he will, and will on whom he will. Thus it appears, that the Elect are Heirs by Grace; and the Teſtament it ſelf, gives them Right to Eternal Life, as the free gift of God by abſolute promiſe, and to have Right to Eternal Life: and all the Bleſſings of the Teſtament of Grace, by Blood, and to be under the con<g ref="char:EOLhyphen"/>demning Power of the Law, are plain contradictions, as being oppoſite one to the other. But if any ſay, they have nothing in preſent poſſeſſion; I anſwer, if they have Right to Juſtifying Righte<g ref="char:EOLhyphen"/>ouſneſs, that is enough to free them from Curſe, and Wrath, in the ſight of God's ſatisfied Juſtice. For there can be no Right, except God counts it ſo; and if he counts it ſo, that is enough to Juſtifie us in his ſight; for this Righteouſneſs is without us, and is
+<pb n="18" facs="tcp:151845:12"/>not communicated, but imputed; and Chriſt as Mediator is the ſubject of this Righteouſneſs: but however, the E<g ref="char:EOLhyphen"/>lect have a proper Right to Sanctifica<g ref="char:EOLhyphen"/>tion, and Glorification before Faith. For there was a Grant to Chriſt, in the Eternal compact, he performing all old Covenant Conditions, as head and Mediator; which when he had per<g ref="char:EOLhyphen"/>formed, he entered into Heaven by his own Blood, having obtained Eter<g ref="char:EOLhyphen"/>nal Redemption, (<hi>Heb.</hi> 9.12.) what he obtained as our great Executor, and ſurety of the Teſtament, was before granted: and he obtained it on the behalf of them for whom it was grant<g ref="char:EOLhyphen"/>ed. It pleaſed the Father to intruſt him with all fulneſs of Grace for the Elect, as their Covenant Head, that ſo it might be ſure to all the Heirs of Pro<g ref="char:EOLhyphen"/>miſe. The Father hath made it as ſure in Chriſt, the ſurety of this Teſtament, as the Eternal God could make it, to ſpeak with Reverence. Thus I have been ſhewing which way Sinners are
+<pb n="19" facs="tcp:151845:12"/>made Righteous in a Mediator; and though the Decree produced no imme<g ref="char:EOLhyphen"/>diate effect, yet it produced its timely effects at that moment of time; the Law was broken, a Mediator ſtood Ready, as fore-ordained to ſtep in, and ſtand in the breach to keep off the flood of Wrath from breaking out up<g ref="char:EOLhyphen"/>on the Elect; always remember, the Law was put in the Mediators hand, or elſe we make ſtrange Work, and ſet the Law and Promiſe together by the Ears: when the Law could not give life, it muſt march off as a Cove<g ref="char:EOLhyphen"/>nant of Life or Death to God's choſen. Chriſt takes it in his own hand, and makes it give way to the Promiſe. Now I ſhall come to ſpeak ſomething of the Juſtifying Sentence, which pronoun<g ref="char:EOLhyphen"/>ceth the Elect Righteous in their Co<g ref="char:EOLhyphen"/>venant Head and Mediator, as ground<g ref="char:EOLhyphen"/>ed upon this preceding Act of Grace, by way of Covenant Tranſaction be<g ref="char:EOLhyphen"/>tween the Father and the Son, which brought our Sins upon Chriſt, and his
+<pb n="20" facs="tcp:151845:13"/>Mediatorial Righteouſneſs upon us; and we are wholly paſſive, both in our being made Righteous by Imputa<g ref="char:EOLhyphen"/>tion, (which is an Act of pure Grace in God to Sinners,) and likewiſe in our being pronounced Juſt, in that Imputed Righteouſneſs, which is a ſentence of Grace, and paſſeth in the Court of Grace, Life by the free promiſe. Now in pronouncing the Sentence of Life upon ungodly Law-breaking Sinners, God ſits Judge of his own Law, as well as the Elect Sinners Cauſe; and inſtead of pronouncing the Sentence of the Law upon the Poor Sinner to Con<g ref="char:EOLhyphen"/>demnation, God ſits Inthroned upon a Mercy Seat, in the Court of Grace reconciled in a Mediator; in whom Grace and Juſtice moſt ſweetly agree to paſs the ſentence of Eternal Life up on the Elect Sinner by abſolute pro<g ref="char:EOLunhyphen"/>miſe (<hi>Gen.</hi> 3.15. <hi>Titus</hi> 1.2. 1 <hi>John</hi> 2.25. This Sentence declares God's Eterna<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Will, that Chriſt as Mediator was t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> die in elect Sinners Place; and they t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="21" facs="tcp:151845:13"/>live by an Act of Sovereign Grace. Thus God, as a righteous Judge, Juſti<g ref="char:EOLhyphen"/>fieth the Righteous only; that is, pro<g ref="char:EOLhyphen"/>nounceth none but ſuch Juſt, as are ſo, (<hi>Deut.</hi> 25.1.) and yet he Juſtifies the ungodly, not by diſpenſing with his Holy Law, or making that void; but in a way of Juſtice, Magnifying and Honouring his Law, declares an act of Eternal Grace; by virtue of which Act his Elect did ſtand Righteous in his ſight, by Imputation of one Man's Obedience, to anſwer the Law in their place, as a Covenant Head, oppoſed to <hi>Adam's</hi> one Diſobedience, who was a figure of this ſecond <hi>Adam,</hi> which was immediately to take the firſt <hi>Adam</hi>'s place (with Reſpect to God's choſen in him,) upon his failoure. And it is Remarkable, that with reſpect to Chriſt's Mediatorſhip, God comes in the cool of the Day, reconciled in him, and ſounds the Jubilee Trumpet from Heaven; and pronounced the ſentence of Life, in the free promiſe, upon <hi>Adam</hi>
+               <pb n="22" facs="tcp:151845:14"/>and all the Womans Seed, (in a better Covenant Head than poor <hi>A dam</hi> was) when he was recking hot in Re<g ref="char:EOLhyphen"/>bellion, and had no Faith. For till the ſentence was paſt, there was no Grace, no Chriſt, no promiſe Revealed for fallen Man to lay hold on; and the caſe muſt be the ſame ſtill, for the ob<g ref="char:EOLhyphen"/>ject muſt precede the Act: that is con<g ref="char:EOLhyphen"/>verſant about that object; and if Life were not revealed in an abſolute pro<g ref="char:EOLhyphen"/>miſe, there were no footing for Faith; for a conditional promiſe is moſt pro<g ref="char:EOLhyphen"/>perly a Law, He that doth the thing required ſhall live. Thus Faith is made void, and the free promiſe of none effect; for the firſt thing lookt to, muſt be the condition annex'd to the promiſe, and then the promiſe claimed upon that condition. Now ſuppoſe Faith be annexed to the Juſtifying ſentence of Life; then Juſtifying Righteouſneſs, and eternal Life in the free promiſe, is not the object of Faith; but Faith it ſelf muſt firſt be lookt to, and then the
+<pb n="23" facs="tcp:151845:14"/>promiſe pleaded upon Faith, as the con<g ref="char:EOLhyphen"/>dition of Life; but this is not the Na<g ref="char:EOLhyphen"/>ture of <hi>Abraham's</hi> Faith, that took God upon his word, and ſtaggered not at the promiſe, nor conſidered not the unlikelineſs, or ſeeming Impoſſibilities, but believed God upon his Word, and the object of his Faith was counted to him for Righteouſneſs. Thus it is by Faith, as an empty Hand, or paſſive Inſtrument, that receives all in the free promiſe, as pure Grace, and in no ſenſe, upon Faith, as a condition annex'd to the ſentence of Life. Yet I own, that this or that Individual Perſon, is not declared to be a Juſtified Perſon, and free from condemnation; but upon believing as no Individual Perſon is de<g ref="char:EOLhyphen"/>clared to be elected, nor Redeemed, by the Death of Chriſt, but upon be<g ref="char:EOLhyphen"/>lieving. Yet the Scriptures do plainly declare, that ſome are elected, and them are Redeemed, and what are the ill conſequences that follow? if I ſay, that Juſtice, doth not charge theſe Re<g ref="char:EOLhyphen"/>deemed
+<pb n="24" facs="tcp:151845:15"/>ones, (but God is compleat<g ref="char:EOLhyphen"/>ly reconciled to them by the Death of Chriſt) any more than the former. Will it not amount to the ſame, to ſay ſome are ordained to Eternal Life, and Redeemed with the Blood of Chriſt, as to ſay, God doth not charge theſe Redeemed ones; ſeeing we like<g ref="char:EOLhyphen"/>wiſe affirm, that none know, that they are not under Condemnation, before Believing, and that whoever dies an unbeliever, ſhall be Damned; except any ſuppoſe, that Terrifying Soul with Curſe and Condemnation, be the moſt effectual way to bring them to Faith in Chriſt; and if ſo, I am not in their Mind; and I am ſure the Goſpel ought to be Preached, and Grace pro<g ref="char:EOLhyphen"/>claimed. And I think it is the moſt effectual to propoſe the Truth, as the object of Faith, which the Goſpel doth Reveal for Salvation; God's pardon<g ref="char:EOLhyphen"/>ing Grace, in the Blood of Chriſt, and ſo Invite Sinners to come to God, as reconciled in the bleeding Sacrifice of
+<pb n="25" facs="tcp:151845:15"/>his Son <hi>Jeſus.</hi> This it is that offends ſome that have made the greateſt Noiſe, (and have enfluenced others, which in o<g ref="char:EOLhyphen"/>ther words ſay the ſame things,) about words; and becauſe they cannot ſo di<g ref="char:EOLhyphen"/>rectly ſtrike at this free Invitation to Sinners, to come directly to Chriſt, without their Previous Qualifications, (which ſtrikes ſo directly at their Idol ſelf Righteouſneſs) therefore they are pleaſed to brand the Doctrine of God's free Juſtifying Grace with Nick-Names at their pleaſure. And I wiſh that ſome, which ſee otherways, be not frightned from owning the Truths they believed, and received in the light of God's Holy Spirit, for fear of being laden with Calumnies, and Reproaches; for it is a trying time, and I do be-believe, that thoſe that are kept cloſe to Chriſt, in owning the ſimplicity of the Goſpel, ſhall meet with as great Tri<g ref="char:EOLhyphen"/>als as thoſe that have gone before us; for Chriſt will ſhake the Earth and the Heavens, and remove thoſe things
+<pb n="26" facs="tcp:151845:16" rendition="simple:additions"/>that are made, and Burn up the Hay, Wood and Stubble. Therefore let every Man take heed what he builds, though upon the foundation of Chriſt, (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Cor.</hi> 3.12.) But to return to the Point in Hand, there be various ſen<g ref="char:EOLhyphen"/>tences, and in various Courts, where and by which God declares the non-Imputation of Sin to his Elect; and all ſentences of Court whatſoever, do but declare God's Act of Grace in that Court where the ſentence is pronoun<g ref="char:EOLhyphen"/>ced; and the laſt add final ſentence will be at the great Aſſizes, when Chriſt will publickly, before Men and Angels, pronounce them bleſſed. Yet to con<g ref="char:EOLhyphen"/>clude with ſome, that they were not compleatly Juſtified till then, would be great darkneſs; ſo though God in his Word, doth pronounce Believers Juſtified, yet it will no more follow, that they were not Juſtified before, than the former; if things be rightly weighed; for this makes Faith a moral Condition of Juſtification, as hath
+<pb n="27" facs="tcp:151845:16" rendition="simple:additions"/>been ſhewn already, and alſo denies Juſtification, to be by the new Cove<g ref="char:EOLhyphen"/>nant, or makes the Covenant of Grace conditional, (and that in a ſtrict ſence, denies Faith to be a part of the Cove<g ref="char:EOLhyphen"/>nant Bleſſings,) but that Juſtification is by the Covenant of Grace. Few do directly deny, and I am as certain, as I am certain that the Scriptures are true, that the firſt pronounced ſen<g ref="char:EOLhyphen"/>tence of Life to Sinners, is by that Covenant (<hi>Gen</hi> 3.15.) And it is ac<g ref="char:EOLhyphen"/>cording to the Tenour of that Cove<g ref="char:EOLhyphen"/>nant, for there are but two Cove<g ref="char:EOLhyphen"/>nants (or Courts) where the pro<g ref="char:EOLhyphen"/>nounced ſentence of Life can be ſup<g ref="char:EOLhyphen"/>poſed to paſs; but by the works of the Law, No Fleſh ſhall be Juſtified, (<hi>Rom.</hi> 3.20.) then is muſt be accord<g ref="char:EOLhyphen"/>ing to the Tenour of the Covenant of Grace; if that be an abſolute promiſe of Life, then the ſentence is an abſo<g ref="char:EOLhyphen"/>lute ſentence, but that is an abſolute promiſe of Life; (<hi>Gen.</hi> 3.15. <hi>Titus</hi> 1.2. 1 <hi>John</hi> 2.25.) Therefore the ſen<g ref="char:EOLhyphen"/>tence
+<pb n="28" facs="tcp:151845:17"/>is an abſolute ſentence, paſt in the Court of Grace, upon all the Wo<g ref="char:EOLhyphen"/>mans Seed in their Covenant Head, (in direct oppoſition to the Serpents ſeed, upon the Serpent and his Seed the Curſe takes place, having no Me<g ref="char:EOLhyphen"/>diator to make up the breach,) and the promiſe in, Chriſt takes hold of the Elect as ſoon as they have a being (<hi>Rom.</hi> 9.13.) Then except it can be proved, that the ſentence that paſſeth upon believing, be according to the Tenour of the Covenant of Grace; it will be in vain for to contend, for that to be the firſt ſentence of Life that is paſt upon an elect Perſon. But I deny, <hi>That believe in the Lord Jeſus and thou ſhalt have Life, or be Saved,</hi> is the Tenour of the Covenant of Grace; it is a part of the New Teſtament Mini<g ref="char:EOLhyphen"/>ſtry, but not the Tenour of the New Covenant. Then ſeeing there is no Law given that can give Life, (<hi>Gal.</hi> 3.21.) then prove that the Covenant of Grace i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conditional, or grant that
+<pb n="29" facs="tcp:151845:17"/>the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>otence of Life is abſolute; or deny that the Juſtifying Sentence of Life, paſſeth according to the Tenour of that Covenant; and then it will lye upon you to prove, by what Co<g ref="char:EOLhyphen"/>venant we are Juſtifyed. But leaving this, that which I deſire your anſwer to, is theſe following Queſtions, which I deſire you would anſwer to each particular diſtinctly, as you tender the Truth, and the Glory of Chriſt; and reſpect my good, and the good of others, by clearing up the Truth, that the ſimplicity of the Goſpel may be preſerved by God's Special help and protection.</p>
+            <div n="1" type="question">
+               <pb n="30" facs="tcp:151845:18"/>
+               <head>
+                  <hi>Queſtion</hi> I.</head>
+               <p>DID the Choſen of God, which were loved with an everlaſting and unchangable Love, when they fell in <hi>Adam</hi> into Sin, by the breach of the Law; equally with others; Did they then come under the ſame con<g ref="char:EOLhyphen"/>demning Power of the Law, and un<g ref="char:EOLhyphen"/>der the ſame Curſe and Wrath of God, equally with the non-elect whilſt on Earth? If not the very ſame, ſhew where it differs, and then, it may be, we agree in the main, though differ in expreſſions. But if the very ſame, Then,</p>
+            </div>
+            <div n="2" type="question">
+               <head>
+                  <hi>Queſtion</hi> II.</head>
+               <p>HOW can they be under the Curſe and Wrath of God, and ſuffer here on Earth, in that ſtate, (as the
+<pb n="31" facs="tcp:151845:18"/>effects of Sin, and conſequently of the Curſe, whilſt under it) and not penal, as part of the puniſhment due to Sin? Though not Hell it ſelf, yet ſomething of the ſame Nature, (though not the ſame degree;) becauſe not under the Juſtifying ſentence of Life, paſt in the New Covenant. Therefore the Curſe of Afflictions, not taken away, they are no corrections in a Covenant way; but properly puniſhment, in Wrath, as taken in a ſtrict Senſe. Then,</p>
+            </div>
+            <div n="3" type="question">
+               <head>
+                  <hi>Queſtion</hi> III.</head>
+               <p>HOW can this ſtand with that per<g ref="char:EOLhyphen"/>fect atonement made by our high Prieſt's own Oblation? or doth it not exceedingly derogate from that perfect ſatisfaction he made to Juſtice, and his compleat filling up the Law,
+<pb n="32" facs="tcp:151845:19"/>by Mediatorial Obedience, (<hi>Heb.</hi> 10. v. 10, 12, 14. and chap 9, v. 12.26.) Again,</p>
+            </div>
+            <div n="4" type="question">
+               <head>
+                  <hi>Queſtion</hi> IV.</head>
+               <p>DOTH not this imply a change in God, for there is a mighty change ſome where, that one that ſtands con<g ref="char:EOLhyphen"/>demned in God's ſight, and under his Curſe and Wrath, having all his Sins charged upon and Imputed to him by God himſelf, ſhould be the very next moment, upon believing, not charged with one Sin, but re<g ref="char:EOLhyphen"/>ceived into the Favour of God, as per<g ref="char:EOLhyphen"/>fectly and compleatly Righteous in God's ſight? Now the change is not in the voice of the Law, for that nei<g ref="char:EOLhyphen"/>reſpects believers nor unbelievers, Elect or Non-elect, but equally Curſ<g ref="char:EOLhyphen"/>eth all that continue not in all things,
+<pb n="33" facs="tcp:151845:19"/>that are written to perfection, (<hi>Deut.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.26) then it is not that imperfect <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ange, wrought in believers, that can <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n the ſentence of the Law, that it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould not Curſe and Condemn them, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at are in themſelves ſinful and imper<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ct. Therefore I ſee not, but that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ou muſt make the change to be in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>od, that counts the Mediatorial Obe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ience of Chriſt, anſwered the Law <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our place, now and not before; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cept you can find a milder Law, that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>onounceth the ſentence of Life, up<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n this imperfect change wrought in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, as the condition annex'd to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entence of Life. And if ſo, Then,</p>
+            </div>
+            <div n="5" type="question">
+               <head>
+                  <hi>Queſtion</hi> V.</head>
+               <p>HOW will you deny, that condi<g ref="char:EOLhyphen"/>tionality of the Covenant of Grace, and that Faith is the Condition hereof; for if Juſtification be by the
+<pb n="34" facs="tcp:151845:20"/>New Covenant, then the ſentence <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Life muſt be according to the Teno<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the Covenant. Then if that be a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> abſolute promiſe of Life (as <hi>Titus</hi> 1.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> compared with 1 <hi>John</hi> 2.25.) the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Juſtifying ſentence of Life, muſt b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> abſolute, as paſt upon all God's choſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Chriſt their Covenant-Head, (<hi>Ge<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 3.15. chap. 22 18, compared wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Gal.</hi> 3.16, 17, 18.) otherwiſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Covenant muſt be Conditional, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Faith muſt be the Condition thereof <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and conſequently no part of the Cove<g ref="char:EOLhyphen"/>nant Grace, becauſe not promiſed there in. For if the firſt Grace be promiſed then the promiſe muſt be abſolute t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sinners, as ſuch, as the price of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Blood of the great Teſtator. Again<g ref="char:punc">▪</g>
+               </p>
+            </div>
+            <div n="6" type="question">
+               <head>
+                  <hi>Queſtion</hi> VI.</head>
+               <p>WHY do you ſet the Seal of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Covenant of Grace upon th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:151845:20"/>infinite ſeed of Believers, ſeeing before <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith, they are in no fence under the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entence of Life, paſt in that Covenant promiſe (though I grant that God is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t liberty to ſhew his Sovereignty, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in <hi>Abraham's</hi> Family) if the promiſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e not Real and abſolute, (at leaſt to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome) as to the Internal part thereof, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat God is their God by Covenant <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tomiſe? Then the Seal of the Cove<g ref="char:EOLhyphen"/>nant is vain, (or only holds forth ex<g ref="char:EOLhyphen"/>ternal priviledges) and conſequently believing Parents have no grounds for their Faith, that God is the God of their ſeed by Covenant promiſe. Again,</p>
+            </div>
+            <div n="7" type="question">
+               <head>
+                  <hi>Queſtion</hi> VII.</head>
+               <p>DOth God pronounce any Juſt, but ſuch as are ſo in his ſight, by Imputation? If not, then making over a Righteouſneſs to elect Sinners in a
+<pb n="36" facs="tcp:151845:21" rendition="simple:additions"/>Mediator, muſt be taken in to God's Juſtifying Act, as well as the pronounced ſentence, which is grounded upon this Act of Grace, in a way of Juſtice; becauſe God, as Righteous Judge, Juſti<g ref="char:EOLhyphen"/>fies ungodly Law-breaking Sinners, as clears them from the voice of the Law, as to the condemning power thereof, by a righteouſneſs without us, by Imputation. Then that Act of God's Grace, that turns the ſentence of the Law upon Chriſt, the ſpotleſs Lamb, by imputing our Sins to him; and turns the ſentence of Law, as to its Condemning power, from Guilty Law-breaking Sinners, by imputing his Mediatorial obedience to them; comes into Juſtification, as well as the pro<g ref="char:EOLhyphen"/>nounced ſentence, that declares this Act of Grace, by which the Sinner ſtands clear in a way of Juſtice. For all ſentences of Court, according to Juſtice, are grounded upon ſome pre<g ref="char:EOLhyphen"/>ceding Act; according to which Act the ſentence is Juſt, and the ſentence
+<pb n="37" facs="tcp:151845:21"/>Juſtifies, as it declares the Act by which they ſtand clear. Again,</p>
+            </div>
+            <div n="8" type="question">
+               <head>
+                  <hi>Queſtion</hi> VIII.</head>
+               <p>WHat is God's Act of Imputati<g ref="char:EOLhyphen"/>on, by which he makes that Law Change of Perſons, which ſets Chriſt, as Mediator, under the Curſe and Condemning power of the Law, (<hi>Gal.</hi> 4. verſe 4. chap. 3. verſe 13. compared) though in himſelf ſpotleſs? and ſets elect Sinners under the Bleſſings of the New Covenant (<hi>Gal.</hi> 3. v. 14. as the immediate effects of his Mediatorial obedience, though in themſelves, and with reſpect to the Law, ungodly Sinners? The Apoſtle ſpeaking of this Sovereign Act of God (<hi>Rom.</hi> 4.5.) ſaith, God Juſtifies the ungodly: Then brings in <hi>David,</hi> de<g ref="char:EOLhyphen"/>ſcribing it, by imputing Righteouſneſs without works (which is the Grounds
+<pb n="38" facs="tcp:151845:22"/>Grounds of his not imputing Sin; and conſequently the Grounds of his pro<g ref="char:EOLhyphen"/>nouncing them Juſt,) This he brings in, as the Quinteſſence of God's Juſtify<g ref="char:EOLhyphen"/>ing Act; now if this Sovereign Act, that makes this Law change of Perſons, and turns the Condemning ſentence of the Law, from the guilty Law<g ref="char:EOLhyphen"/>breaking Sinner, to the ſpotleſs Lamb, be not an Act of God's Sovereign Will, as Imminent and Internal, then I de<g ref="char:EOLhyphen"/>ſire you would undeceive me, and ſhew plainly, what manner of Act it is; for I take God's Will to be the Rule of all Juſtice, and things are there<g ref="char:EOLhyphen"/>fore Juſt, becauſe he Wills them; and as it was his Will, that the breach of his Law ſhould be puniſhed with Eternal Death (and he would by no means clear the guilty, (<hi>Exo.</hi> 34.7.) ſo it was his Will, that this ſpotleſs Lamb ſhould ſtand Guilty, as Medi<g ref="char:EOLhyphen"/>ator, by way of Imputation, and ſhould mediate between a broken Law and his Choſen ones; and ſtand be<g ref="char:EOLhyphen"/>tween
+<pb n="39" facs="tcp:151845:22"/>all Harms and them. And I hum<g ref="char:EOLhyphen"/>bly conceive, that in this Act of imputing our Sins to Chriſt, and his obedience (as Mediator) to us, God reſpects no manner of inherent change in us. Again,</p>
+            </div>
+            <div n="9" type="question">
+               <head>
+                  <hi>Queſtion</hi> IX.</head>
+               <p>WHen doth the Mediatory un<g ref="char:EOLhyphen"/>dertakement of Chriſt, firſt take place for an Elect Perſon? If when we believe, and not before, then Chriſt Intercedes not for the Elect uncalled, which is contrary to the Scripture (<hi>Jo.</hi> 17.20.) Chriſt's Mediatorſhip is figured out in the Type (<hi>Deut.</hi> 5.5.) <hi>I ſtood between the Lord and you,</hi> ſaith <hi>Moſes,</hi> when the Law was given upon Mount <hi>Sinai.</hi> And (<hi>Deut.</hi> 10.5.) <hi>I came down from the Mount, and put the Tables in the Ark, and there they be, as the Lord Commanded me.</hi> Compare
+<pb n="40" facs="tcp:151845:23"/>this with (<hi>Gal.</hi> 3.19, 20, 21.) there he ſhews that the Law, in the Media<g ref="char:EOLhyphen"/>tor's Hand, made the promiſe take place upon the ſeed of <hi>Abraham, Jews,</hi> and <hi>Gentiles;</hi> Which was the Goſpel God preached to <hi>Abraham,</hi> and to <hi>Adam</hi> too; as Law and promiſe meet in Chriſt, they ſweetly agree, Chriſt being delivered up to Juſtice, for all the Elect, in their Law-place. <hi>Who can charge them? ſaith</hi> Paul, <hi>God Juſti<g ref="char:EOLhyphen"/>fies them, Chriſt died and is Riſen again, and received to God's Right Hand, and there pleads</hi> (<hi>Rom.</hi> 8.33, 34.) his plea, as an Advocate, is mighty and pre<g ref="char:EOLhyphen"/>vailing; as he pleads his propitiatory Sacrifice, as the propiciation of the Elect World, <hi>Jew</hi> and <hi>Gentle,</hi> (1 <hi>Jo.</hi> 2.2.) Thus he pleads out all Bills of Indictment whatſoever out of Court; and his atoneing Blood was Efficacious from the very moment <hi>Adam</hi> fell. He is called a Lamb ſlain from the foun<g ref="char:EOLhyphen"/>dation of the World, (<hi>Rev.</hi> 13.8.)
+<pb n="41" facs="tcp:151845:23"/>he was not actually ſlain, neither do I underſtand it in the Decree only, but by vertue of the Decree, his Blood was Efficacious, from the firſt moment <hi>Adam</hi> fell: Had it not been for this, fallen Man had never had a free pro<g ref="char:EOLhyphen"/>miſe of Life, nor yet of Faith; but had been under the Curſe, and there muſt have lain; which were the caſe now, if Chriſt did not mediate by Blood, for thoſe that were unconvert<g ref="char:EOLhyphen"/>ed; which makes the promiſe abſolute. For if the Elect uncalled, be not under the promiſe in Chriſt, as Mediator of this better Covenant to them; then they muſt be ſtrictly under the Law, (as ſome affirm) as a Covenant of Works, and have no promiſe, but what that Covenant affords them, till Faith; and where they ſhall have that, if not under the abſolute promiſe in Chriſt as Mediator, I ſee not but they are under the Curſe, and there muſt lie. Again,</p>
+            </div>
+            <div n="10" type="question">
+               <pb n="42" facs="tcp:151845:24"/>
+               <head>
+                  <hi>Queſtion</hi> X.</head>
+               <p>WHAT is the Goſpel tender to Sinners, if all Sinners are under God's Curſe and Wrath whilſt unconverted? Who darſt then to proclaim Peace, in the King's Name, to a Company of Law-break<g ref="char:EOLhyphen"/>ing Sinners, and Rebels? Who darſt then to proclaim Liberty to Captives, and the opening the Priſon to them that are bound, or cauſe the Jubile Trumpet to ſound, if the atone<g ref="char:EOLhyphen"/>ment be not compleatly made by our High Prieſts atoning Blood? ſee (<hi>Lev.</hi> 25.9.) <hi>in the Day of atonement, you ſhall cauſe the Trumpet of the Jubile to ſound, and proclaim Liberty.</hi> This argues that the Blood of Chriſt was Efficacious from the fall of <hi>Adam,</hi> when the Law was
+<pb n="43" facs="tcp:151845:24"/>broken; this Blood pleaded in the Eye of Juſtice, in the ſight of God there was an atonement by virtue of the Covenant Contract; and God himſelf ſounded the Jubile Trumpet from Heaven, and Preached Peace and Pardon in the free promiſe by a Mediator; who by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od's appoint<g ref="char:EOLhyphen"/>ment, was to ſtand in the Gap, and make up the breach of a broken Co<g ref="char:EOLhyphen"/>venant, which was all along held forth in the Sacrifices. Now if the atonement be not compleatly made by our High-Prieſt's own offering; then the Tipe held forth more than was in the <hi>Antitipe.</hi> (<hi>Lev.</hi> 16.30.) If Wrath be not appeaſed, and God Reconciled, in a bleeding Sacrifice to Sinners, as ſuch, How then can the Goſpel be a Meſſage of Peace, by Jeſus Chriſt, to <hi>Jews</hi> and <hi>Gentiles?</hi> (<hi>Acts</hi> 10.36.) If God be not Recon<g ref="char:EOLhyphen"/>ciled in the atoning Blood of Jeſus to elect Sinners, as ſuch; then they
+<pb n="44" facs="tcp:151845:25"/>are under no abſolute promiſe of Faith, and a new Heart, and the Spirit, Sanctification and Glorifica<g ref="char:EOLhyphen"/>tion, as the price of his Blood, to confirm this free Teſtament, whereof he is the ſurety, (<hi>Heb.</hi> 7.22.) If not, then Chriſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th only purchaſed a remote Reconcilibility in God, and God will be Reconciled to Sinners, when they believe, (which I ſuppoſe would be never if the caſe were ſo.) Then it follows, that Sinners are cal<g ref="char:EOLhyphen"/>led to believe in Chriſt, that ſo God's Curſe and Wrath might be done a way, and God become Reconciled, and at Peace with them, and Pardon their Sins, and except their Perſons. This looks like a new Law, but I think no milder than the old Law, for who will believe in an Angry God, or can, for Pardon, if God Reconciled in the Blood of Chriſt, be not that which Faith takes hold on, then I miſtake; but I am well ſatisfied, that thoſe that
+<pb n="45" facs="tcp:151845:25"/>are Orthodox and ſound in the main, ſay the ſame in other words, which a<g ref="char:EOLhyphen"/>mounts to this, That the Elect are un<g ref="char:EOLhyphen"/>der the abſolute promiſe of a new Heart, of the Spirit, Sanctification, and the like, as the purcha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Chriſt's Blood, And why not Juſtification? for you will own, that Go<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> pardoning Grace, and the Juſtifying Righte<g ref="char:EOLhyphen"/>ouſneſs of Chriſt, is the object of Faith, and not Wrath and Condemna<g ref="char:EOLhyphen"/>tion directly.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
